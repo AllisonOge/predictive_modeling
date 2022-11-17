@@ -7,8 +7,8 @@ Predictive models were built with LSTM networks; one for the next state and anot
 ## Results
 
 The accuracy and loss plots during training are shown below
-![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/training.png)
-![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/loss.png)
+![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/images/training.png)
+![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/images/loss.png)
 These were obtained for the idle time prediction model and the plot of the predictions against the ground truth is shown below;
-![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/predictions.png)
+![](https://raw.githubusercontent.com/AllisonOge/predictive_modeling/main/images/predictions.png)
 The highest accuracy measured was 85%
